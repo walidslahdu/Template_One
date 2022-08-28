@@ -476,12 +476,12 @@ h3+p {
     padding-bottom: var(--padding-section);
     text-align: center;
     background-color: #2c4755;
-    font-size: 25px;
+    font-size: 26px;
     color: white;
 }
 
 .footer span {
-    color: rgb(68, 68, 255);
+    color: rgb(68, 68, 254);
     font-weight: 800;
 }
 
